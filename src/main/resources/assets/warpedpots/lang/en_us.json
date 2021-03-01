@@ -1,6 +1,6 @@
 {
   "item.warpedpots.warped_pearl": "Warped Pearl",
-  "effect.warpedpots.warping": "Warping",
+  "item.warpedpots.warped_fruit": "Warped Fruit",
   "item.minecraft.potion.effect.warping": "Potion of Warping",
   "item.minecraft.potion.effect.warping_long": "Potion of Warping",
   "item.minecraft.potion.effect.warping_longer": "Potion of Warping",
@@ -16,5 +16,6 @@
   "item.minecraft.tipped_arrow.effect.warping": "Arrow of Warping",
   "item.minecraft.tipped_arrow.effect.warping_long": "Arrow of Warping",
   "item.minecraft.tipped_arrow.effect.warping_longer": "Arrow of Warping",
-  "item.minecraft.tipped_arrow.effect.warping_longest": "Arrow of Warping"
+  "item.minecraft.tipped_arrow.effect.warping_longest": "Arrow of Warping",
+  "effect.warpedpots.warping": "Warping"
 }

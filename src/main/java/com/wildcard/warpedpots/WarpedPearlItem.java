@@ -17,7 +17,7 @@ public class WarpedPearlItem extends EnderPearlItem {
 
     @Override
     public ActionResult<ItemStack> onItemRightClick(World worldIn, PlayerEntity playerIn, Hand handIn) {
-        playerIn.addPotionEffect(new EffectInstance(RegistryHandler.WARPING.get(), 100));
+        playerIn.addPotionEffect(new EffectInstance(RegistryHandler.WARPING.get(), 150));
         return super.onItemRightClick(worldIn, playerIn, handIn);
     }
 }
