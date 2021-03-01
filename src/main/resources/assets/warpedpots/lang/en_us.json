@@ -12,5 +12,9 @@
   "item.minecraft.lingering_potion.effect.warping": "Lingering Potion of Warping",
   "item.minecraft.lingering_potion.effect.warping_long": "Lingering Potion of Warping",
   "item.minecraft.lingering_potion.effect.warping_longer": "Lingering Potion of Warping",
-  "item.minecraft.lingering_potion.effect.warping_longest": "Lingering Potion of Warping"
+  "item.minecraft.lingering_potion.effect.warping_longest": "Lingering Potion of Warping",
+  "item.minecraft.tipped_arrow.effect.warping": "Arrow of Warping",
+  "item.minecraft.tipped_arrow.effect.warping_long": "Arrow of Warping",
+  "item.minecraft.tipped_arrow.effect.warping_longer": "Arrow of Warping",
+  "item.minecraft.tipped_arrow.effect.warping_longest": "Arrow of Warping"
 }

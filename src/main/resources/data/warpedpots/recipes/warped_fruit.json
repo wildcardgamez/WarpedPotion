@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "tag": "minecraft:warped_fungus"
+    },
+    {
+      "tag": "minecraft:sugar"
+    }
+  ],
+  "result":
+  {
+    "item": "warpedpots:warped_fruit"
+  }
+}

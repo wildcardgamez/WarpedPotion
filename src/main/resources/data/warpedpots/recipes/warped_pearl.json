@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "tag": "minecraft:warped_fungus"
+    }
+  ],
+  "result":
+  {
+    "item": "warpedpots:warped_pearl"
+  }
+}
