@@ -5,10 +5,7 @@ import net.minecraft.entity.ai.attributes.AttributeModifierManager;
 import net.minecraft.potion.Effect;
 import net.minecraft.potion.EffectType;
 import net.minecraft.util.math.BlockPos;
-import net.minecraft.world.World;
 import net.minecraft.world.server.ServerWorld;
-
-import java.util.HashMap;
 
 public class WarpingEffect extends Effect {
     public WarpingEffect() {
