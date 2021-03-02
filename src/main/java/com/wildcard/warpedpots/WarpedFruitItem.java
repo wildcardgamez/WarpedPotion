@@ -7,7 +7,7 @@ import net.minecraft.world.World;
 
 public class WarpedFruitItem extends Item {
     public WarpedFruitItem() {
-        super(new Item.Properties().group(ItemGroup.FOOD).food(Foods.CHORUS_FRUIT));
+        super(new Item.Properties().group(ItemGroup.MISC).food(Foods.CHORUS_FRUIT));
     }
 
     @Override
