@@ -1,8 +1,6 @@
 package com.wildcard.warpedpots;
 
-import net.minecraft.item.Food;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Items;
 import net.minecraft.potion.*;
 import net.minecraftforge.fml.RegistryObject;
@@ -21,10 +19,8 @@ public class RegistryHandler {
         POTIONS.register(FMLJavaModLoadingContext.get().getModEventBus());
     }
 
-    public static final Food WARPED_FRUIT_FOOD = (new Food.Builder()).hunger(4).saturation(0.3F).effect(() -> new EffectInstance(RegistryHandler.WARPING.get(), 150), 1f).setAlwaysEdible().build();
-
     public static final RegistryObject<Item> WARPED_PEARL = ITEMS.register("warped_pearl", WarpedPearlItem::new);
-    public static final RegistryObject<Item> WARPED_FRUIT = ITEMS.register("warped_fruit", () -> new Item(new Item.Properties().group(ItemGroup.BREWING).food(WARPED_FRUIT_FOOD)));
+    public static final RegistryObject<Item> WARPED_FRUIT = ITEMS.register("warped_fruit", WarpedFruitItem::new);
 
     public static final RegistryObject<Effect> WARPING = EFFECTS.register("warping", WarpingEffect::new);
 
