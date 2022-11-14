@@ -1,0 +1,21 @@
+{
+  "item.warpedpots.warped_pearl": "诡异珍珠",
+  "item.warpedpots.warped_fruit": "诡异果实",
+  "item.minecraft.potion.effect.warping": "归反药水",
+  "item.minecraft.potion.effect.warping_long": "归反药水",
+  "item.minecraft.potion.effect.warping_longer": "归反药水",
+  "item.minecraft.potion.effect.warping_longest": "归反药水",
+  "item.minecraft.splash_potion.effect.warping": "喷溅型归反药水",
+  "item.minecraft.splash_potion.effect.warping_long": "喷溅型归反药水",
+  "item.minecraft.splash_potion.effect.warping_longer": "喷溅型归反药水",
+  "item.minecraft.splash_potion.effect.warping_longest": "喷溅型归反药水",
+  "item.minecraft.lingering_potion.effect.warping": "滞留型归反药水",
+  "item.minecraft.lingering_potion.effect.warping_long": "滞留型归反药水",
+  "item.minecraft.lingering_potion.effect.warping_longer": "滞留型归反药水",
+  "item.minecraft.lingering_potion.effect.warping_longest": "滞留型归反药水",
+  "item.minecraft.tipped_arrow.effect.warping": "归反之箭",
+  "item.minecraft.tipped_arrow.effect.warping_long": "归反之箭",
+  "item.minecraft.tipped_arrow.effect.warping_longer": "归反之箭",
+  "item.minecraft.tipped_arrow.effect.warping_longest": "归反之箭",
+  "effect.warpedpots.warping": "归反"
+}
